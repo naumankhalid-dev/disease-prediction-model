@@ -97,4 +97,5 @@ Implement feature importance visualization for interpretability
 
 **Nauman Khalid**
 
-🌐[Linkedin](www.linkedin.com/in/nauman-khalid-58a2692a0)
+🌐[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/nauman-khalid-58a2692a0)
+
